@@ -6,3 +6,9 @@ Implemented complete(forward and backpropagation) CNN model,including Convolutio
 
 ## Assignment1 Part2: Convolutional model: application
 Implemented a CNN model using tensorflow framework . The model prdicts the handsigns between 0-5 .
+
+## Keras Tutorial 
+Learnt to implement deep networks using Keras.
+
+## Assignment2: Residual Networks
+Made a 50 layer deep ResNet NN including various identity and convolutional blocks. Keras framework was used for implementation.
