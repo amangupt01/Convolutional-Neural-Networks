@@ -12,3 +12,6 @@ Learnt to implement deep networks using Keras.
 
 ## Assignment2: Residual Networks
 Made a 50 layer deep ResNet NN including various identity and convolutional blocks. Keras framework was used for implementation.
+
+## Assignment3: Car detection with YOLO  
+Object detection and localization performed using YOLO algorithm. Implemented non-max supression and filter boxing part on a pre-trained model. Used 5 anchorboxes and 19x19 grid for the 80 class classification and detection problem .
