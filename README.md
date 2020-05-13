@@ -15,3 +15,6 @@ Made a 50 layer deep ResNet NN including various identity and convolutional bloc
 
 ## Assignment3: Car detection with YOLO  
 Object detection and localization performed using YOLO algorithm. Implemented non-max supression and filter boxing part on a pre-trained model. Used 5 anchorboxes and 19x19 grid for the 80 class classification and detection problem .
+
+## Assignment4 Part1: Art generation with Neural Style Transfer
+Implemented Neural style transfer to fuse the content and style image into the generated image by minimizing the Cost function using gradient descent wuth adam's optimisation. Used keras and tensorflow framework and pretrained VGG network. 
