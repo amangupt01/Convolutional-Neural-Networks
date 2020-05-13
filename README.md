@@ -18,3 +18,6 @@ Object detection and localization performed using YOLO algorithm. Implemented no
 
 ## Assignment4 Part1: Art generation with Neural Style Transfer
 Implemented Neural style transfer to fuse the content and style image into the generated image by minimizing the Cost function using gradient descent wuth adam's optimisation. Used keras and tensorflow framework and pretrained VGG network. 
+
+## Assignment4 Part2: Face Recognition
+Implemented a face verification and recognition system using triple cost function and Siamese Network. 
